@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matveydoroshenko
 - 👀 I’m interested in participating in interesting projects
-- 🌱 I’m currently learning Python, especially aiogram and machine learning
+- 🌱 I’m learning Python, especially aiogram and selenium
 - 📫 How to reach me @matveydoroshenko - telegram
 
 <!---
